@@ -133,11 +133,11 @@ Fuse all three, and you get the anatomy of a **living intelligence system**—a 
 
 | Ontological Layer  | Autoencoder Function                   | Example y (Outcome Variable)          | Role in Information Flow                                                | Protective / Regenerative Mode                                        |
 | ------------------ | -------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **Soil**           | **Raw variance / data intake**         | Population mortality                  | Entropy intake: raw signals of life and death enter the system          | Regeneration; vital registration; mortality tracking                  |
-| **Roots**          | **Encoding / perception**              | Organ failure, physiological markers  | Sensemaking: biological signals become measurable data                  | Early detection; sensor networks; preventive screening                |
-| **Trunk**          | **Compression / agentic coordination** | Hospitalization, frailty, case loads  | Statistical + policy compression of many lives into curves and budgets  | Efficient triage; resilient resource allocation                       |
-| **Branches**       | **Decoding / generative adaptation**   | Hazards, exposures, disease incidence | Epidemiological branching; models predict futures; interventions fork   | Vaccination, education, sanitation—decoding prevention back into life |
 | **Canopy + Fruit** | **Representation / meaning**           | Access, coverage, legitimacy, trust   | Policy synthesis: decoded data becomes collective ethics and governance | Polycentric regulation, equity, adaptive accountability               |
+| **Branches**       | **Decoding / generative adaptation**   | Hazards, exposures, disease incidence | Epidemiological branching; models predict futures; interventions fork   | Vaccination, education, sanitation—decoding prevention back into life |
+| **Trunk**          | **Compression / agentic coordination** | Hospitalization, frailty, case loads  | Statistical + policy compression of many lives into curves and budgets  | Efficient triage; resilient resource allocation                       |
+| **Roots**          | **Encoding / perception**              | Organ failure, physiological markers  | Sensemaking: biological signals become measurable data                  | Early detection; sensor networks; preventive screening                |
+| **Soil**           | **Raw variance / data intake**         | Population mortality                  | Entropy intake: raw signals of life and death enter the system          | Regeneration; vital registration; mortality tracking                  |
 
 ---
 
@@ -147,30 +147,32 @@ Each layer is also a temporal derivative or integral—how “y” changes, not 
 
 | Calculus Expression                 | Epistemic Act             | Description                                         |
 | ----------------------------------- | ------------------------- | --------------------------------------------------- |
-| $(x, y)$                        | **Distinction**           | Raw observation of context and outcome              |
-| $y = f(t, x) + \varepsilon$       | **Observable encoding**   | Modeling uncertainty and fidelity                   |
-| $\frac{dy}{dt}$                   | **Admissible motion**     | Detecting real change (outbreaks, surges, declines) |
-| $\frac{d^2y}{dt^2}$               | **Unambiguous curvature** | Acceleration of change; inflection detection        |
 | $\int y , dt + \varepsilon t + C$ | **Concept formation**     | Policy synthesis; accumulated meaning through time  |
+| $\frac{d^2y}{dt^2}$               | **Unambiguous curvature** | Acceleration of change; inflection detection        |
+| $\frac{dy}{dt}$                   | **Admissible motion**     | Detecting real change (outbreaks, surges, declines) |
+| $y = f(t, x) + \varepsilon$       | **Observable encoding**   | Modeling uncertainty and fidelity                   |
+| $(x, y)$                          | **Distinction**           | Raw observation of context and outcome              |
 
 ---
 
 ### 🧠 What WHO sees
 
-* **Encoding** = perception AI (sensing the world’s complexity).
-* **Compression** = agentic AI (policy optimization under uncertainty).
-* **Decoding** = generative AI (turning compressed insights back into action).
+
 * **Representation** = embodied AI (institutions that learn and self-correct).
+* **Decoding** = generative AI (turning compressed insights back into action).
+* **Compression** = agentic AI (policy optimization under uncertainty). 
+* **Encoding** = perception AI (sensing the world’s complexity).         
+* **World Health** = world AI (periodic + aperiodic patterns).         
 
 ---
 
 To put it simply:
 
-> Mortality is data.
-> Morbidity is structure.
-> Frailty is memory.
-> Insurance is compression.
-> Governance is meaning.
+> Governance is meaning.        
+> Insurance is compression.     
+> Frailty is memory.       
+> Morbidity is structure.      
+> Mortality is data.         
 
 This table makes “autoencoding” intelligible even without equations or neural diagrams — it’s the *living metabolism* of information in a health system:
 from **soil (data)** to **fruit (policy)**,
