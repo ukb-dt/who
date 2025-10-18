@@ -177,3 +177,70 @@ To put it simply:
 This table makes “autoencoding” intelligible even without equations or neural diagrams — it’s the *living metabolism* of information in a health system:
 from **soil (data)** to **fruit (policy)**,
 with **compression (trust)** as the sacred bottleneck that determines whether life learns or repeats its mistakes.
+
+# F
+
+
+## 1) README / page snippet (copy & paste)
+
+ 
+| **Level** | **Research Layer (WHO)** | **Biological Analogy**              | **AI Modality**                | **Function**                               | **Epistemic Mode**            | **Public Health Reflection**                     | **Calculus (Compression of Change)**                        |
+| --------: | :----------------------- | :---------------------------------- | :----------------------------- | :----------------------------------------- | :---------------------------- | :----------------------------------------------- | :---------------------------------------------------------- |
+|     **5** | **Conclusions**          | **Canopy / Fruit (Embodiment)**     | **Embodied AI (Digital Twin)** | Integration — coherence of the whole       | **Ethics / Purpose**          | Governance, system learning, health as wholeness | ∫ y dt + εt + C → *Integration over time, emergent meaning* |
+|     **4** | **Limitations**          | **Branches / Flows (Biochemistry)** | **Generative AI**              | Synthesis — creation of new combinations   | **Aesthetics / Possibility**  | Innovation, simulation, adaptive design          | d²y/dt² → *Acceleration of outcomes, emergent novelty*      |
+|     **3** | **Results**              | **Trunk (Physiology)**              | **Agentic AI**                 | Coordination — transformation and control  | **Logic / Adaptation**        | Optimization, interventions, feedback systems    | dy/dt → *Rate of change, control of feedback loops*         |
+|     **2** | **Methods**              | **Roots (Nervous System)**          | **Perception AI**              | Sensing — encoding signals from noise      | **Phenomenology / Attention** | Surveillance, context, bias detection            | y = f(t, x) + ε → *Signal extraction from context*          |
+|     **1** | **Background / Data**    | **Soil (Anatomy)**                  | **World AI**                   | Structure — foundational context, raw data | **Ontology / Form**           | Infrastructure, registries, institutional design | (x, y) → *Initial conditions, parameters of existence*      |
+
+> Tip: tell participants the calculus column is a _listening instrument_ for systems — if they prefer, they can ignore it. It’s for your backstage use.
+
+
+Beautiful — let’s lock this in. I put together two production-ready pieces you can drop straight into a README / slide deck and use live in Session 1:
+
+1. **README / page snippet** (MathJax loader, centered image, caption, then the final Ukubona table in Markdown).
+2. **Facilitator opening script + quick “choose your selfie” exercise** (three lines to say while showing the image, plus 90-s activity and a prompt to surface who’s standing where).
+
+Copy-paste both. I kept the calculus as your private scaffold (you can show or hide it). Enjoy the moment of optics — this will feel like a mirror that actually teaches.
+
+---
+
+
+---
+
+## 2) Facilitator opening script + “Choose your selfie” micro-exercise
+
+**Show the image full-screen. Pause 6–8 seconds for people to look. Then say (calm, short):**
+
+> “Look at this tree. See how the roots search, the trunk concentrates, branches explore, and the canopy bears fruit. Today we’re asking: how does our health system—our data, our tools, our policies—do the same work? This table maps those roles. Pick the column that feels most like your daily work. Choose your selfie.”
+
+**Say next (10–15s):**
+
+> “I’ll show the table now. If you’re a data person, you’ll likely stand in the soil. If you design methods, you’re in the roots. If you run programs, you’re in the trunk. Innovators live in the branches. Stewards and policy leads live in the canopy.”
+
+**90-second activity (live or breakout):**
+
+* Ask participants to pick one of five labels silently, then type the label into chat or place a sticker on a shared slide (e.g., Soil / Roots / Trunk / Branches / Canopy).
+* Ask one volunteer from each label to speak for 20s: “Why that column?”
+
+**Prompt to solicit reflection (use if time):**
+
+* “What does your column need from the column below? (e.g., canopy needs reliable trunk signals; trunk needs roots that aren’t biased.)”
+
+**Why this works:**
+
+* It quickly surfaces roles and dependencies.
+* It sets humility: the group sees immediately that nobody “is the whole tree.”
+* It frames the rest of the workshops as collaborative metabolism, not siloed training.
+
+---
+
+If you want I can also:
+
+* Generate a **1-slide PNG** with the image + the table (print-ready, 16:9), or
+* Produce a **one-page facilitator cue-card** (300–400 words) with timings per script line.
+
+Tell me which and I’ll generate the asset in the next message.
+
+# G
+
+??
