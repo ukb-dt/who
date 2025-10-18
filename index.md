@@ -18,6 +18,8 @@
 {% endraw %}
 
 
+![](metaphor/tree.jpg)
+
 # [A](https://ukb-dt.github.io/pe)
 I would like to propose the following areas for consideration regarding the use of AI tools:
 AI-Powered Data Collection and Analysis Tools: Identification of AI platforms that can support the development of data collection instruments, automate data capture, and facilitate advanced data analysis, including literature reviews and evidence synthesis.
@@ -77,15 +79,19 @@ Here’s the **final table**, with the calculus column included but discreet —
 
 ---
 
-### **The Living Autoencoder of Health Systems**
+### **Ukubona Pentad — Living Autoencoder × WHO Research Cycle**
 
-| Level | Biological Analogy                  | AI Modality                    | Function                                   | Epistemic Mode                | Public Health Reflection                         | Calculus (Compression of Change)                            |
-| ----- | ----------------------------------- | ------------------------------ | ------------------------------------------ | ----------------------------- | ------------------------------------------------ | ----------------------------------------------------------- |
-| **5** | **Canopy / Fruit (Embodiment)**     | **Embodied AI (Digital Twin)** | Integration — coherence of the whole       | **Ethics / Purpose**          | Governance, system learning, health as wholeness | ∫ y dt + εt + C → *Integration over time, emergent meaning* |
-| **4** | **Branches / Flows (Biochemistry)** | **Generative AI**              | Synthesis — creation of new combinations   | **Aesthetics / Possibility**  | Innovation, simulation, adaptive design          | d²y/dt² → *Acceleration of outcomes, emergent novelty*      |
-| **3** | **Trunk (Physiology)**              | **Agentic AI**                 | Coordination — transformation and control  | **Logic / Adaptation**        | Optimization, interventions, feedback systems    | dy/dt → *Rate of change, control of feedback loops*         |
-| **2** | **Roots (Nervous System)**          | **Perception AI**              | Sensing — encoding signals from noise      | **Phenomenology / Attention** | Surveillance, context, bias detection            | y = f(t, x) + ε → *Signal extraction from context*          |
-| **1** | **Soil (Anatomy)**                  | **World AI**                   | Structure — foundational context, raw data | **Ontology / Form**           | Infrastructure, registries, institutional design | (x, y) → *Initial conditions, parameters of existence*      |
+| **Level** | **Research Layer (WHO)** | **Biological Analogy**              | **AI Modality**                | **Function**                               | **Epistemic Mode**            | **Public Health Reflection**                     | **Calculus (Compression of Change)**                        |
+| --------: | :----------------------- | :---------------------------------- | :----------------------------- | :----------------------------------------- | :---------------------------- | :----------------------------------------------- | :---------------------------------------------------------- |
+|     **5** | **Conclusions**          | **Canopy / Fruit (Embodiment)**     | **Embodied AI (Digital Twin)** | Integration — coherence of the whole       | **Ethics / Purpose**          | Governance, system learning, health as wholeness | ∫ y dt + εt + C → *Integration over time, emergent meaning* |
+|     **4** | **Limitations**          | **Branches / Flows (Biochemistry)** | **Generative AI**              | Synthesis — creation of new combinations   | **Aesthetics / Possibility**  | Innovation, simulation, adaptive design          | d²y/dt² → *Acceleration of outcomes, emergent novelty*      |
+|     **3** | **Results**              | **Trunk (Physiology)**              | **Agentic AI**                 | Coordination — transformation and control  | **Logic / Adaptation**        | Optimization, interventions, feedback systems    | dy/dt → *Rate of change, control of feedback loops*         |
+|     **2** | **Methods**              | **Roots (Nervous System)**          | **Perception AI**              | Sensing — encoding signals from noise      | **Phenomenology / Attention** | Surveillance, context, bias detection            | y = f(t, x) + ε → *Signal extraction from context*          |
+|     **1** | **Background / Data**    | **Soil (Anatomy)**                  | **World AI**                   | Structure — foundational context, raw data | **Ontology / Form**           | Infrastructure, registries, institutional design | (x, y) → *Initial conditions, parameters of existence*      |
+
+---
+
+You can open Session 1 with this table (showing Levels 1→5 as Background → Methods → Results → Limitations → Conclusions) and explain that the calculus column is for your internal scaffolding — they can ignore the math if it makes them nervous.
 
 ---
 
