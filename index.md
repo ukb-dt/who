@@ -25,20 +25,54 @@
 </figure>
 
 
-# [A](https://ukb-dt.github.io/pe)
-I would like to propose the following areas for consideration regarding the use of AI tools:
-AI-Powered Data Collection and Analysis Tools: Identification of AI platforms that can support the development of data collection instruments, automate data capture, and facilitate advanced data analysis, including literature reviews and evidence synthesis.
-Prompt Engineering Strategies: Exploration of best practices in prompt engineering to optimize AI outputs for specific research and analytic needs, ensuring relevance, accuracy, and efficiency.
-Data Validation and Cross-Referencing Solutions: Assessment of AI-enabled tools and methodologies for verifying data integrity, cross-referencing multiple sources, and enhancing reliability and reproducibility of findings.
+# [A](https://ukb-dt.github.io/pe). WHO Officers Expectations
 
-to add to what has already been highlighted but to echo the point expressed around approaches to minimizing bias and validation of referencing sources.
+I would like to propose the following areas for consideration regarding the use of AI tools (`Embodied AI, Generative AI, Agentic AI, Perception AI, World AI`):
+AI-Powered Data Collection and Analysis Tools: 
 
-# B
-From the "resident AI expert with programming background": The focus may include understanding model architectures and their implications for reasoning, bias, and factual reliability, evaluating AI outputs against scientific rigor and applying systematic methods to assess the interpretability and reproducibility of model-derived insights
-Discuss frameworks for benchmarking AI tools, assessing epistemic soundness, and integrating human oversight in automated synthesis. 
+- Identification of AI platforms that can support the development of data collection instruments
+- Automate data capture, and
+- Facilitate advanced data analysis
+- Including literature reviews and evidence synthesis.
+  
+Prompt Engineering Strategies: 
+
+- Exploration of best practices in prompt engineering to optimize AI outputs for specific research and analytic needs
+- Ensuring relevance
+- Accuracy, and
+- Efficiency
+  
+Data Validation and Cross-Referencing Solutions: 
+
+- Assessment of AI-enabled tools and methodologies for verifying data integrity
+- Cross-referencing multiple sources, and
+- Enhancing reliability and reproducibility of findings.
+
+To add to what has already been highlighted but to echo the point expressed around approaches to:
+
+- Minimizing bias and
+- Validation of referencing sources.
+
+# B. The WHO AI Experts Expectations
+
+From the "resident AI expert with programming background": 
+
+The focus may include understanding model architectures and their implications for:
+- Reasoning
+- Bias, and
+- Factual reliability
+- Evaluating AI outputs against scientific rigor and
+- Applying systematic methods to assess the interpretability and reproducibility of model-derived insights
+  
+Discuss frameworks for: 
+
+- Benchmarking AI tools
+- Assessing epistemic soundness, and
+- Integrating human oversight in automated synthesis.
+  
 Especially interested in how semantic representation and prompt optimization can be leveraged to create reliable and contextually aware knowledge environments
 
-# C
+# C. Ukubona LLC's Bullet Points
 
 - 1
    - Data collection
@@ -76,13 +110,10 @@ Especially interested in how semantic representation and prompt optimization can
       - Leveraged for reliability
       - Contextually aware knowldge environemnts       
 
-# D
+# D. Everyone Must Understand Levels + Research Layers 
 
-Perfect — the calculus column is your private skeleton key: the *grammar of change* that underlies every level. You can quietly use it to guide your own transitions — to show that every layer of the pentad is just a different derivative of reality: from raw context to meaningful integration.
+Note — The calculus column is Ukubona LLC's private skeleton key: the *grammar of change* that underlies every level. For the mathematically inclined, it show that every layer of the pentad is just a different derivative of reality: from raw context to meaningful integration. Everyone should choose their "selfie": a column or metaphor that is most intelligible to them.
 
-Here’s the **final table**, with the calculus column included but discreet — an internal architecture for you, not the audience:
-
----
 
 ### **Ukubona Pentad — Living Autoencoder × WHO Research Cycle**
 
@@ -94,30 +125,29 @@ Here’s the **final table**, with the calculus column included but discreet —
 |     **2** | **Methods**              | **Roots (Nervous System)**          | **Perception AI**              | Sensing — encoding signals from noise      | **Phenomenology / Attention** | Surveillance, context, bias detection            | y = f(t, x) + ε → *Signal extraction from context*          |
 |     **1** | **Background / Data**    | **Soil (Anatomy)**                  | **World AI**                   | Structure — foundational context, raw data | **Ontology / Form**           | Infrastructure, registries, institutional design | (x, y) → *Initial conditions, parameters of existence*      |
 
----
 
-You can open Session 1 with this table (showing Levels 1→5 as Background → Methods → Results → Limitations → Conclusions) and explain that the calculus column is for your internal scaffolding — they can ignore the math if it makes them nervous.
 
----
+We can open Session 1 with this table (showing Levels 1→5 as Background → Methods → Results → Limitations → Conclusions) and explain that the calculus column is  Ukubona's internal scaffolding — they can ignore the math if it makes them nervous.
+
 
 ### How to Use It in Session 1
 
 When you show the table:
 
-* Tell the WHO officers the **rightmost column** is simply your “mathematical shorthand for the same intuition.”
+* Tell the WHO officers the **rightmost column** is simply our “mathematical shorthand for the same intuition.”
 * Emphasize that calculus here is **metaphoric**, not technical — it’s how we think about *change over time*, *flows of information*, and *feedback between systems*.
 * You can even say:
   *“Think of it as a stethoscope for systems — listening to how fast things are changing, and whether the rhythm is healthy.”*
 
 ---
 
-Now the table carries every layer of your thinking:
+This table carries every layer of Ukubona LLC's thinking:
 soil to canopy, ontology to ethics, data to purpose — and, beneath it all, the differential heartbeat of transformation.
 
-This, truly, is a living calculus of intelligence.
+This, truly, is a living calculus of intelligence (natural and artificial).
 
 # E
-This is the right moment to **merge the epidemiological “y-hierarchy” with the autoencoder architecture** into a single intelligible table.
+This is the right moment to **merge the epidemiological “y-hierarchy” (outcomes and mortality) with the autoencoder architecture** into a single intelligible table.
 
 Think of it this way:
 
