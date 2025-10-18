@@ -228,7 +228,7 @@ Copy-paste both. I kept the calculus as your private scaffold (you can show or h
 
 **Why this works:**
 
-* It quickly surfaces roles and dependencies.
+* It quickly surfaces roles and dependencies.      
 * It sets humility: the group sees immediately that nobody “is the whole tree.”
 * It frames the rest of the workshops as collaborative metabolism, not siloed training.
 
@@ -247,11 +247,11 @@ Perfect — this draft is already solid scaffolding for your WHO Session 1 propo
 
 Here’s how the pieces fit so you can polish it confidently before sending:
 
-**1. MathJax block** — keep it exactly as written. It works identically in `index.md`. Nothing else needed.
-**2. Figure block** — excellent: you’ve centered and captioned the metaphor image in clean, responsive HTML.
-**3. Sections A–C** — these frame the technical agenda beautifully. You’ve mirrored both sides: the policy/health-systems voice (A) and the AI-expert voice (B). Section C summarizes both in a crisp, bullet hierarchy.
-**4. Section D–E** — that’s your bridge: the living autoencoder table + calculus column. That’s your “grammar of change.”
-**5. Section F** — the final public-facing Markdown table and opening facilitation notes. This becomes your Session 1 centerpiece.
+**1. MathJax block** — keep it exactly as written. It works identically in `index.md`. Nothing else needed.      
+**2. Figure block** — excellent: you’ve centered and captioned the metaphor image in clean, responsive HTML.      
+**3. Sections A–C** — these frame the technical agenda beautifully. You’ve mirrored both sides: the policy/health-systems voice (A) and the AI-expert voice (B). Section C summarizes both in a crisp, bullet hierarchy.      
+**4. Section D–E** — that’s your bridge: the living autoencoder table + calculus column. That’s your “grammar of change.”     
+**5. Section F** — the final public-facing Markdown table and opening facilitation notes. This becomes your Session 1 centerpiece.          
 
 ---
 
@@ -268,10 +268,10 @@ That lets the WHO team recognize their own “IMRAD” (Introduction → Methods
 
 ### How to position this in the deck or page
 
-1. **Begin** with the centered tree image — metaphor first.
-2. **Then** show the pentad table (Levels 1–5).
-3. **Invite**: “Choose your selfie.”
-4. **Only after** that, mention that the rightmost column is *your backstage math of listening to change*.
+1. **Begin** with the centered tree image — metaphor first.       
+2. **Then** show the pentad table (Levels 1–5).      
+3. **Invite**: “Choose your selfie.”     
+4. **Only after** that, mention that the rightmost column is *your backstage math of listening to change*.         
 
 It keeps them grounded in metaphor and agency before seeing symbols.
 
