@@ -18,7 +18,12 @@
 {% endraw %}
 
 
-![](metaphor/tree.jpg)
+<!-- Centered, responsive -->
+<figure style="text-align:center; margin: 1.2rem 0;">
+  <img src="metaphor/tree.jpg" alt="Roots of a tree clinging to red earth" style="max-width:75%; height:auto; display:inline-block;">
+  <figcaption style="font-size:0.9rem; color:#555; margin-top:0.4rem;">Roots in the open — metaphor for data & systems</figcaption>
+</figure>
+
 
 # [A](https://ukb-dt.github.io/pe)
 I would like to propose the following areas for consideration regarding the use of AI tools:
