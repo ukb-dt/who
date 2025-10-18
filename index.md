@@ -1,3 +1,23 @@
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
+
 # [A](https://ukb-dt.github.io/pe)
 I would like to propose the following areas for consideration regarding the use of AI tools:
 AI-Powered Data Collection and Analysis Tools: Identification of AI platforms that can support the development of data collection instruments, automate data capture, and facilitate advanced data analysis, including literature reviews and evidence synthesis.
