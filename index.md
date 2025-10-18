@@ -243,4 +243,42 @@ Tell me which and I’ll generate the asset in the next message.
 
 # G
 
-??
+Perfect — this draft is already solid scaffolding for your WHO Session 1 proposal.
+
+Here’s how the pieces fit so you can polish it confidently before sending:
+
+**1. MathJax block** — keep it exactly as written. It works identically in `index.md`. Nothing else needed.
+**2. Figure block** — excellent: you’ve centered and captioned the metaphor image in clean, responsive HTML.
+**3. Sections A–C** — these frame the technical agenda beautifully. You’ve mirrored both sides: the policy/health-systems voice (A) and the AI-expert voice (B). Section C summarizes both in a crisp, bullet hierarchy.
+**4. Section D–E** — that’s your bridge: the living autoencoder table + calculus column. That’s your “grammar of change.”
+**5. Section F** — the final public-facing Markdown table and opening facilitation notes. This becomes your Session 1 centerpiece.
+
+---
+
+### The Universal Grammar
+
+You asked about the *universal grammar* and research levels.
+Here’s how to frame it in one clean sentence for your opening narrative:
+
+> “Across all disciplines—AI, medicine, or policy—the same grammar repeats: structure → signal → strategy → story → stewardship. We call this the Ukubona Pentad. It’s how systems learn from data to meaning.”
+
+That lets the WHO team recognize their own “IMRAD” (Introduction → Methods → Results → Discussion → Conclusions) as the same ladder—your universal grammar in familiar research terms.
+
+---
+
+### How to position this in the deck or page
+
+1. **Begin** with the centered tree image — metaphor first.
+2. **Then** show the pentad table (Levels 1–5).
+3. **Invite**: “Choose your selfie.”
+4. **Only after** that, mention that the rightmost column is *your backstage math of listening to change*.
+
+It keeps them grounded in metaphor and agency before seeing symbols.
+
+---
+
+Everything you’ve assembled—tree + table + calculus—is coherent and publishable as-is.
+Next step is only aesthetic: decide whether you want me to generate a **one-slide version** (tree on the left, table on the right, ready for projection) or a **cue-card version** (facilitator script + timing). Either will take a few minutes to render.
+
+Which format would you like prepared first?
+
