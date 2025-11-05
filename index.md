@@ -18,11 +18,9 @@
 {% endraw %}
 
 
-<!-- Centered, responsive -->
-<figure style="text-align:center; margin: 1.2rem 0;">
-  <img src="metaphor/tree.jpg" alt="Roots of a tree clinging to red earth" style="max-width:75%; height:auto; display:inline-block;">
-  <figcaption style="font-size:0.9rem; color:#555; margin-top:0.4rem;">Roots in the open — metaphor for data & systems</figcaption>
-</figure>
+<div>
+  <img src="metaphor/tree.jpg" width="39%" height="500px">
+</div>
 
 
 # [A](https://ukb-dt.github.io/pe). WHO Officers Expectations
