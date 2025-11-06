@@ -108,7 +108,7 @@ Especially interested in how semantic representation and prompt optimization can
       - Leveraged for reliability
       - Contextually aware knowldge environemnts       
 
-# D. Everyone Must Understand Levels + Research Layers 
+# [D](https://ukb-dt.github.io/who-01/). Everyone Must Understand Levels + Research Layers 
 
 Note — The calculus column is Ukubona LLC's private skeleton key: the *grammar of change* that underlies every level. For the mathematically inclined, it show that every layer of the pentad is just a different derivative of reality: from raw context to meaningful integration. Everyone should choose their "selfie": a column or metaphor that is most intelligible to them.
 
