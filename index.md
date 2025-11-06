@@ -51,7 +51,7 @@ To add to what has already been highlighted but to echo the point expressed arou
 - Minimizing bias and
 - Validation of referencing sources.
 
-# B. The WHO AI Experts Expectations
+# [B](https://ukb-dt.github.io/who-00/). The WHO AI Experts Expectations
 
 From the "resident AI expert with programming background": 
 
@@ -70,7 +70,7 @@ Discuss frameworks for:
   
 Especially interested in how semantic representation and prompt optimization can be leveraged to create reliable and contextually aware knowledge environments
 
-# C. Ukubona LLC's Bullet Points
+# [C](https://ukb-dt.github.io/who-i/). Ukubona LLC's Bullet Points
 
 - 1
    - Data collection
